@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World! Daemon");
+﻿Console.WriteLine("Hello, World! Daemon name");
