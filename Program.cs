@@ -1,13 +1,12 @@
-﻿Console.WriteLine("Hello, World! Daemon name");
-Daemon daemon = new Daemon();
-daemon.StartDaemon();
+﻿Angel daemon = new Angel();
+daemon.StartAngel();
 
-public class Daemon
+public class Angel
 {
 
-    public void StartDaemon()
+    public void StartAngel()
     {
         // Code to start the daemon process
-        Console.WriteLine("Daemon started successfully.");
+        Console.WriteLine("Angel started successfully.");
     }
 }
