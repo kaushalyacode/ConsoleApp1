@@ -8,6 +8,6 @@ public class Angel
     {
         // Code to start the daemon process
         Console.WriteLine("Angel started successfully.");
-        Console.WriteLine("Angel started successfully. 1");
+        Console.WriteLine("Angel started successfully. 2");
     }
 }
